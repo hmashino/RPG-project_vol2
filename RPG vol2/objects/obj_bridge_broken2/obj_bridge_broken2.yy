@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tile",
+  "%Name":"obj_bridge_broken2",
   "eventList":[],
   "managed":true,
-  "name":"obj_tile",
+  "name":"obj_bridge_broken2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_tile",
-    "path":"sprites/spr_tile/spr_tile.yy",
+    "name":"spr_bridge3_1",
+    "path":"sprites/spr_bridge3_1/spr_bridge3_1.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

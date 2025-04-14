@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tile",
+  "%Name":"obj_brifge_broken1",
   "eventList":[],
   "managed":true,
-  "name":"obj_tile",
+  "name":"obj_brifge_broken1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_tile",
-    "path":"sprites/spr_tile/spr_tile.yy",
+    "name":"spr_bridge1_1",
+    "path":"sprites/spr_bridge1_1/spr_bridge1_1.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
