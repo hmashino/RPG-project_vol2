@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brifge_broken1",
+  "%Name":"obj_bridge_3",
   "eventList":[],
   "managed":true,
-  "name":"obj_brifge_broken1",
+  "name":"obj_bridge_3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_bridge1_1",
-    "path":"sprites/spr_bridge1_1/spr_bridge1_1.yy",
+    "name":"spr_bridge2_1",
+    "path":"sprites/spr_bridge2_1/spr_bridge2_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

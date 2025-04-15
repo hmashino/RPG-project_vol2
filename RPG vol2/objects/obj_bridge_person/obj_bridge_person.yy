@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bridge_broken2",
-  "eventList":[],
+  "%Name":"obj_bridge_person",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"player","path":"objects/player/player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_bridge_broken2",
+  "name":"obj_bridge_person",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_bridge3_1",
-    "path":"sprites/spr_bridge3_1/spr_bridge3_1.yy",
+    "name":"spr_bridge_person",
+    "path":"sprites/spr_bridge_person/spr_bridge_person.yy",
   },
   "spriteMaskId":null,
   "visible":true,

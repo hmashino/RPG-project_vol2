@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bridge3",
+  "%Name":"obj_tent",
   "eventList":[],
   "managed":true,
-  "name":"obj_bridge3",
+  "name":"obj_tent",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bridge3",
-    "path":"sprites/spr_bridge3/spr_bridge3.yy",
+    "name":"spr_tent",
+    "path":"sprites/spr_tent/spr_tent.yy",
   },
   "spriteMaskId":null,
   "visible":true,
