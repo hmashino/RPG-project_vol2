@@ -22,6 +22,6 @@ movespeed = 3;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 3E49AB34
+/// @DnDHash : 028D0E68
 /// @DnDArgument : "var" "global.tree"
 global.tree = 0;
