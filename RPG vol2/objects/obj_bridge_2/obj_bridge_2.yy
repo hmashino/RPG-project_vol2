@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bridge3_1",
-    "path":"sprites/spr_bridge3_1/spr_bridge3_1.yy",
+    "name":"spr_bridge2",
+    "path":"sprites/spr_bridge2/spr_bridge2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

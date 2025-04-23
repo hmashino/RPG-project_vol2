@@ -25,3 +25,33 @@ movespeed = 3;
 /// @DnDHash : 028D0E68
 /// @DnDArgument : "var" "global.tree"
 global.tree = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 2759D44A
+/// @DnDArgument : "var" "global.F"
+global.F = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 01DC2067
+/// @DnDArgument : "var" "global.treee"
+global.treee = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 26076536
+/// @DnDArgument : "var" "global.treeapple"
+global.treeapple = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1E1797EE
+/// @DnDArgument : "var" "global.exp"
+global.exp = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4DCC357C
+/// @DnDArgument : "var" "global.turn"
+global.turn = 0;

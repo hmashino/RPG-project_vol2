@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_monster10",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"player","path":"objects/player/player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_monster10",
   "overriddenProperties":[],
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_monster10",
-    "path":"sprites/spr_monster10/spr_monster10.yy",
+    "name":"spr_monster13",
+    "path":"sprites/spr_monster13/spr_monster13.yy",
   },
   "spriteMaskId":null,
   "visible":true,
