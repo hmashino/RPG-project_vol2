@@ -34,9 +34,17 @@ if(global.playerHP <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 07AE1DFD
 	/// @DnDParent : 68102C64
-	/// @DnDArgument : "room" "Room1"
-	/// @DnDSaveInfo : "room" "Room1"
-	room_goto(Room1);}
+	/// @DnDArgument : "room" "Room4"
+	/// @DnDSaveInfo : "room" "Room4"
+	room_goto(Room4);
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 29AB4F17
+	/// @DnDParent : 68102C64
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "var" "global.gameover"
+	global.gameover = 1;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

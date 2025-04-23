@@ -8,8 +8,8 @@ if(global.F == 1){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDHash : 523AB3BC
 	/// @DnDParent : 1B148331
 	/// @DnDArgument : "expr" "1"
-	/// @DnDArgument : "var" "global.appleee"
-	global.appleee = 1;}
+	/// @DnDArgument : "var" "global.tellbattle"
+	global.tellbattle = 1;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

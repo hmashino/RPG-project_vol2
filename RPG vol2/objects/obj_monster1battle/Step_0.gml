@@ -18,7 +18,16 @@ if(global.enemy_hp <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDArgument : "expr" "1"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "global.killmonster1"
-	global.killmonster1 += 1;}
+	global.killmonster1 += 1;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 362FD0C9
+	/// @DnDParent : 515966DF
+	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "global.exp"
+	global.exp += 2;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

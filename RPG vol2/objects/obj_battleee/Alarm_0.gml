@@ -12,3 +12,10 @@ global.playerHP += -global.enemy_power;
 /// @DnDArgument : "expr" ""player""
 /// @DnDArgument : "var" "global.turn"
 global.turn = "player";
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0C85CD24
+/// @DnDArgument : "expr" "+global.enemy_power"
+/// @DnDArgument : "var" "global.enemy_power"
+global.enemy_power = +global.enemy_power;
