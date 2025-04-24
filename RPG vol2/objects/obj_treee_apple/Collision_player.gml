@@ -35,10 +35,10 @@ if(global.F == 1){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 37035B65
 	/// @DnDParent : 7CA37065
-	/// @DnDArgument : "expr" "5"
+	/// @DnDArgument : "expr" "2"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "global.exp"
-	global.exp += 5;}
+	global.exp += 2;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
