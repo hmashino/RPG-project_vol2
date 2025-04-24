@@ -1,8 +1,3 @@
-/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 3BCBFAFE
-audio_stop_all();
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2472BF9B
@@ -15,12 +10,6 @@ global.exp = 0;
 /// @DnDArgument : "var" "global.gamestart"
 global.gamestart = 0;
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 3078E6EC
-/// @DnDArgument : "var" "global.tellbattle"
-global.tellbattle = 0;
-
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 49E63F55
@@ -32,18 +21,6 @@ alarm_set(0, 3);
 /// @DnDHash : 755363B4
 /// @DnDArgument : "var" "global.tree"
 global.tree = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 4B1E1C55
-/// @DnDArgument : "var" "global.appleee"
-global.appleee = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 73CB24F0
-/// @DnDArgument : "var" "global.treea"
-global.treea = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -74,15 +51,3 @@ global.treeapple = 0;
 /// @DnDHash : 57729500
 /// @DnDArgument : "var" "global.gameover"
 global.gameover = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 3A15D06B
-/// @DnDArgument : "var" "global.gamelast"
-global.gamelast = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 16012B7B
-/// @DnDArgument : "var" "global.battlewon"
-global.battlewon = 0;

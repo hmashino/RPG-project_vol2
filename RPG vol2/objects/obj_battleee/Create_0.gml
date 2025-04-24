@@ -1,15 +1,3 @@
-/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 4F022019
-audio_stop_all();
-
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 49DA3096
-/// @DnDArgument : "soundid" "Digestion"
-/// @DnDSaveInfo : "soundid" "Digestion"
-audio_play_sound(Digestion, 0, 0, 1.0, undefined, 1.0);
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2A887E64

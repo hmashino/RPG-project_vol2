@@ -6,13 +6,6 @@
 /// @DnDArgument : "var" "global.playerHP"
 global.playerHP += -global.enemy_power;
 
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 7BBC6DD2
-/// @DnDArgument : "soundid" "damage"
-/// @DnDSaveInfo : "soundid" "damage"
-audio_play_sound(damage, 0, 0, 1.0, undefined, 1.0);
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 29574D67

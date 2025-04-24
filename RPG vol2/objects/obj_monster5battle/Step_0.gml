@@ -22,14 +22,6 @@ if(global.enemy_hp <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 000FDFE1
-	/// @DnDParent : 515966DF
-	/// @DnDArgument : "expr" "1"
-	/// @DnDArgument : "var" "global.battlewon"
-	global.battlewon = 1;
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
 	/// @DnDHash : 445CD34C
 	/// @DnDParent : 515966DF
 	/// @DnDArgument : "expr" "50"

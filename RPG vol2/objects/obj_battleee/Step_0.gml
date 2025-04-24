@@ -52,16 +52,3 @@ if(global.playerHP <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDArgument : "var" "global.playerHP"
 /// @DnDArgument : "op" "2"
 if(global.playerHP > 0){}
-
-/// @DnDAction : YoYo Games.Common.If_Variable
-/// @DnDVersion : 1
-/// @DnDHash : 4609B1A6
-/// @DnDArgument : "var" "global.battlewon"
-/// @DnDArgument : "not" "1"
-if(!(global.battlewon == 0)){}
-
-/// @DnDAction : YoYo Games.Common.If_Variable
-/// @DnDVersion : 1
-/// @DnDHash : 76430590
-/// @DnDArgument : "var" "global.battlewon"
-if(global.battlewon == 0){}
