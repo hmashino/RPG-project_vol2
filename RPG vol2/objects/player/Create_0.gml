@@ -47,11 +47,18 @@ global.treeapple = 0;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1E1797EE
+/// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "global.exp"
-global.exp = 0;
+global.exp += 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4DCC357C
 /// @DnDArgument : "var" "global.turn"
 global.turn = 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0C33CD00
+/// @DnDArgument : "var" "global.gamestart"
+global.gamestart = 0;

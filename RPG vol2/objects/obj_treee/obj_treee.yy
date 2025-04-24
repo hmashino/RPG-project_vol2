@@ -34,5 +34,5 @@
     "path":"sprites/spr_treee/spr_treee.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

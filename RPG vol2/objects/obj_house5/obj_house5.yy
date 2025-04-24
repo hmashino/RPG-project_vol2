@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_house5",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_house5",
   "overriddenProperties":[],

@@ -23,7 +23,22 @@ if(global.F == 1){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDParent : 2A217255
 	/// @DnDArgument : "expr" "1"
 	/// @DnDArgument : "var" "global.treee"
-	global.treee = 1;}
+	global.treee = 1;
+
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 0CFB2C1F
+	/// @DnDParent : 2A217255
+	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 59843A24
+	/// @DnDParent : 2A217255
+	/// @DnDArgument : "expr" "5"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "global.exp"
+	global.exp += 5;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

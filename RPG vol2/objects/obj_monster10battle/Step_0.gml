@@ -29,9 +29,9 @@ if(global.enemy_hp <= 0){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
 	/// @DnDHash : 5967307A
 	/// @DnDParent : 390852E9
-	/// @DnDArgument : "room" "Room1"
-	/// @DnDSaveInfo : "room" "Room1"
-	room_goto(Room1);
+	/// @DnDArgument : "room" "Room7"
+	/// @DnDSaveInfo : "room" "Room7"
+	room_goto(Room7);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1

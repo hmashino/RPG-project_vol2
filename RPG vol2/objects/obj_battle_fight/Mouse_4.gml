@@ -12,6 +12,14 @@ if(global.turn == "player"){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDArgument : "var" "global.enemy_hp"
 	global.enemy_hp += -10-global.exp;
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 0A412F09
+	/// @DnDParent : 22285077
+	/// @DnDArgument : "soundid" "attackp"
+	/// @DnDSaveInfo : "soundid" "attackp"
+	audio_play_sound(attackp, 0, 0, 1.0, undefined, 1.0);
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 28EB0671
